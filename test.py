@@ -8,12 +8,13 @@ data = pd.read_csv("iris_nonull.csv")
 # country_data = list(data["country"].unique())
 # x_data = list(country_data["city"])
 # y_data = list(country_data["lat"])
+setosa_data = data[data.Species=="iris-setosa"]
 dict1 = {}
 # print(data["country"][0])
-for i in data.columns:
-    l1 = str(type(data[i][0]))
+for i in setosa_data.columns:
+    l1 = str(type(setosa_data[i][0]))
     if(l1[8:11]!="str"):
-        dict1[i] = list(data[i])
+        dict1[i] = list(setosa_data[i])
 # print(type(l1[1:6]))
 # print(l1[6:12]=='clas')
 
@@ -59,9 +60,10 @@ for i in data.columns:
 
 df = pd.DataFrame(dict1)
 # print(df)
-
-
+print(df.describe().transpose())
+print(tabulate(df.describe().transpose()))
 # print(df.corr())
-plt.plot(data["SepalLengthCm"],data["PetalWidthCm"])
+# plt.plot(data["SepalLengthCm"],data["PetalWidthCm"])
 # sns.heatmap(df.corr())
-plt.show()
+# plt.show()
+

@@ -4,6 +4,7 @@ from tkinter import *
 import numpy as np
 from tkinter import messagebox
 import seaborn as sns
+from tabulate import tabulate
 # defining functions
 sets = sns.get_dataset_names()
 dict1 = {"Data":sets}
@@ -189,7 +190,7 @@ def save():
 
         def detail():
             new_window = Toplevel(gui)
-            new_window.config(bg="black")
+            new_window.config(width = 20,bg="black")
             ce = column_entry.get()
             se = species_entry.get()
             new_window.title(f"Details of {se}")
@@ -221,7 +222,7 @@ t = Label(gui,text="Welcome to Graph viewer",font=("Arial",14,'italic'),bg="sky 
 t.grid(row=0,column=1,pady=10,columnspan=2)
 
 canvas = Canvas(width=260,height=200,bg="sky blue")
-logo = PhotoImage(file="../3rd_sem_1st_project/images.png")
+logo = PhotoImage(file="images.png")
 canvas.create_image(130,100,image = logo)
 canvas.grid(row=1,column=1,columnspan=2)
 

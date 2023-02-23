@@ -1,3 +1,2 @@
-.corr)
-# sns.heatmap(df.corr())
-# plt.show()
+e())
+# print(tabulate(df.describe()
