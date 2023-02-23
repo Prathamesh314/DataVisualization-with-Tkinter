@@ -1,0 +1,52 @@
+********* About Project ***********
+
+This project aims to create a desktop application that utilizes several libraries to create user friendly data visualization tool.Users can input a csv file to veiw all 
+the columns, plot data and can use various features of plotting. This is a very easy way to analyze and visualize any data.
+The project uses four python libraries :- Tkinter,Pandas,Matplotlib,Seaborn. Tkinter is used for creating a GUI, while Pandas is used to manipulate and analyze data.
+Matplotlib creates static, interactive and animated  visualization, while Seaborn focuses on statistical plots.
+By combining this libraries, the tool provides users with the ability to explore and analyze their data in various ways. Users can load & veiw data through user interface
+with Tkinter, manipulate data with Pandas and visualize data with Matplotlib and Seaborn. The project ultimately provides a flexible and powerful solution for data 
+visualization.
+
+********** Learning ************
+
+During making of this project I have learned about data visualization using matplotlib and Seaborn. These two libraries intrigued me and gave me an idea of 
+combining this libraries with GUI[Graphical User Interface]. I explored different types of plots, what else extra features we can add to this plots, about subplots 
+and lot more. I also explored more about Tkinter module like how to add more than one screens in single project and how to write on a particular screen.
+This project has helped me improve better and knowing more about this libraries
+
+********* Why do you want to be a MLH Fellow **************
+
+I want to become a MLH Fellow becuase MlH fellowship is an internship alternative where accepted fellow get to work with some
+of the top tech companies [like google and meta] and contribute to open source peojects. I think I will gain real world experience
+working as a fellow. I had never done internship before,I have no prior experience and this is my first attempt to apply for an internship,
+and i believe MLH Fellowship will help me gain some experience in my field. I want to learn new things,explore new things and 
+i want to be a part of group project and work with the best people. Beacuse, I think working with best people and 
+getting guidance from them can make me better than what i am, which will help me a lot in my career. I want to explore
+myself that where did i stand and how much potential do i have to complete any given task.
+Working in an internship not only pays you but also teaches you lot of things.Money that you earn from an internship will not 
+stay with you forever but the learning and knowledge you gain will stay. Also i want to join a community where i can meet new
+people who have some extra talent in them, it is such a great honour talking with them,working with them.
+I think this is a great platform that can guide me and bring the best out of me and can help to reach me to my maximum limits.
+
+*********** What experience will i bring in fellowship ************
+
+To be honest this is my first attempt of applying for an internship, I had no prior experience so i cannot bring any experience to fellowship. I am applying for this 
+internship because if i get selected then it will be an opportunity for me to gain some experience, know my potentials and learn more new things. But I can promise you that i Will do the best possible thing i can. 
+I am hardworking,focused and determined.It is possible that not every person applying for an internship must have some experience, the most important thing is how 
+serious he/she is about the work assigned to them and i can assure you seriousness in my work.
+My Perspective is to teach everyone that programming is not just about learning a language or memorizing syntaxes, modules, in-built functions, that is not programming.
+The real programming is when you feel a language, when you explore it and try to use it some real world project using your creativity and observations. Programming is a 
+way of solving our daily life problems. Language is just a source but when you use that source and combine with your thinking, at that moment you are called a real
+programmer.No one is born a specialist, when he/she loves his/her work, explore it thoroughly and studies it deeply then he become a specialist of that field.
+So this is the perspective that i can bring being a fellow.
+
+************ what else do we know about you ********************
+
+Let me discuss my journey as a programmer, so I was a normal student who had no knowledge about programming and got an admission into computer science and engineering.
+There were few people who already knew about programming and had their hand over programming languages like rust, java, and skills like front-end dev, full stack 
+development, which made me nervous and tensed, i started thinking of how to compete with these people. But i never carried this nervousness with me, 
+i take that as a motivation of learning new things and i started learning programming.The First programming language that I learnt was C language then I learnt Python.
+Pyhton intrigued me and started exploring in python, I also learned Blender but had not given much time to blender. I studied various libraries of python and finally 
+able to create a project that i can present to MLH Fellowship.So this is my journey of programmming till now and I want to learn more that's why i am applying for 
+MLH Fellowship program to explore new world.
