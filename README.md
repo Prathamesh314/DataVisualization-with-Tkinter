@@ -5,7 +5,8 @@ for any specific task.
 
 ## Instructions to Use
 1. Upload a csv[Comma Separated File] and make sure that file is available in the same folder
-    where the program is
+    where the program is located and also you must have all the images of the repository in you folder, because
+    I have used them in my GUI.
 2. You can now see name of columns in your csv file, you can type any column name in Entry box
     to view details of that columns
 3. You can enter X and Y Parameters in their respective Entry Boxes and enter which type of 
