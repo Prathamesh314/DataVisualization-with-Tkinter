@@ -25,36 +25,36 @@ for any specific task.
 
 # Here's how it looks like
 ##### First Page
-<img src="screenshots\Screenshot_20230223_221231.png">
+<img src="screenshots\Screenshot_20230223_221231.png" />
 
 ##### Second Page
-<img src="screenshots\Screenshot_20230223_222954.png">
+<img src="screenshots\Screenshot_20230223_222954.png" />
 
 ##### Details of column you enter
-<img src="screenshots\Screenshot_20230223_221324.png">
+<img src="screenshots\Screenshot_20230223_221324.png" />
 
 ##### Plot for given x and y parameters 
 
-Normal Plot :- <img src="screenshots\Screenshot_20230223_221544.png">
+Normal Plot :- <img src="screenshots\Screenshot_20230223_221544.png" />
 
-Zoomed Plot :- <img src="screenshots\Screenshot_20230223_223817.png">
+Zoomed Plot :- <img src="screenshots\Screenshot_20230223_223817.png" />
 
 ##### Details of the file [Min,Max,Count,Percentile]
 
-#### Data 1:- <img src="screenshots\Screenshot_20230223_230633.png">
+#### Data 1:- <img src="screenshots\Screenshot_20230223_230633.png" />
 
-#### Data 2:- <img src="screenshots\Screenshot_20230223_230743.png">
+#### Data 2:- <img src="screenshots\Screenshot_20230223_230743.png" />
 
 
 ##### Screen which shows available datasets in Seaborn
 
-<img src="screenshots\Screenshot_20230223_223836.png">
-<img src="screenshots\Screenshot_20230223_223836.png">
+<img src="screenshots\Screenshot_20230223_223836.png" />
+<img src="screenshots\Screenshot_20230223_223836.png" />
 
 ##### Pairplot filtered by Species
 
-<img src="screenshots\Screenshot_20230223_223911.png">
+<img src="screenshots\Screenshot_20230223_223911.png" />
 
 ##### Heatmap
 
-<img src="screenshots\Screenshot_20230223_223926.png">
+<img src="screenshots\Screenshot_20230223_223926.png" />
